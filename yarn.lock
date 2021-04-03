@@ -1096,6 +1096,13 @@ dot-prop@^5.2.0:
   dependencies:
     is-obj "^2.0.0"
 
+dotenv-safe@^8.2.0:
+  version "8.2.0"
+  resolved "https://registry.yarnpkg.com/dotenv-safe/-/dotenv-safe-8.2.0.tgz#8d548c7318a62c09a66c4dc8c31864cc007c78ba"
+  integrity sha512-uWwWWdUQkSs5a3mySDB22UtNwyEYi0JtEQu+vDzIqr9OjbDdC2Ip13PnSpi/fctqlYmzkxCeabiyCAOROuAIaA==
+  dependencies:
+    dotenv "^8.2.0"
+
 dotenv@^8.2.0:
   version "8.2.0"
   resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-8.2.0.tgz#97e619259ada750eea3e4ea3e26bceea5424b16a"
@@ -1343,6 +1350,11 @@ gauge@~2.7.3:
     string-width "^1.0.1"
     strip-ansi "^3.0.1"
     wide-align "^1.1.0"
+
+gen-env@^0.2.0:
+  version "0.2.0"
+  resolved "https://registry.yarnpkg.com/gen-env/-/gen-env-0.2.0.tgz#7b5cd8d8fd68da9383a40ef29bd5fac4ef88b762"
+  integrity sha512-Z9nt1fuJTQ0FjQKL+QfQdMYm4Ap/f0wjvKEt3qYOBDV/UT5P8e7mdXLoBIUFHSpTqfC7PpLK+789lqPg5tD37w==
 
 get-caller-file@^2.0.5:
   version "2.0.5"
@@ -2870,6 +2882,11 @@ typeorm@^0.2.31:
     xml2js "^0.4.23"
     yargonaut "^1.1.2"
     yargs "^16.0.3"
+
+types@^0.1.1:
+  version "0.1.1"
+  resolved "https://registry.yarnpkg.com/types/-/types-0.1.1.tgz#860c6859d11366293f835d8c95aebcf95029838e"
+  integrity sha1-hgxoWdETZik/g12Mla68+VApg44=
 
 typescript@^4.2.2:
   version "4.2.2"
