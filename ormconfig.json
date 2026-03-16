@@ -6,5 +6,5 @@
   "password": "Rubicon1999",
   "database": "falconblog",
   "entities": ["dist/entities/*.js"],
-  "migrations": ["src/migrations/*.js"]
+  "migrations": ["dist/migrations/*.js"]
 }
